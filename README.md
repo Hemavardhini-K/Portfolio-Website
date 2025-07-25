@@ -18,4 +18,4 @@ This portfolio highlights my work, including the "Online Course Reservation Syst
 Open index.html in your browser, or deploy it with GitHub Pages.
 
 ## 🌐 Live Demo
-[Click here to view the live site](https://yourusername.github.io/your-repo-name)
+[Click here to view the live site](https://hemavardhini-k.github.io/Portfolio-Website/)
